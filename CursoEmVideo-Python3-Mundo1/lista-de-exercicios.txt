@@ -1,5 +1,14 @@
 Lista de Exercícios | Curso de Python 3 - Mundo 1 | Professor Gustavo Guanabara | 
 
+> Tópicos:
+
+. Primeiros Passos com Python - Exercícios: 1 e 2;
+. Tratando dados e fazendo contas - Exercícios: 3 a 15;
+. Usando módulos do Python - Exercícios: 16 a 27;
+. Condições em Python (if..else) - Exercícios: 28 a 35.
+
+> Exercícios:
+
 1) Escrever "Olá, Mundo!".
 
 2) Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
