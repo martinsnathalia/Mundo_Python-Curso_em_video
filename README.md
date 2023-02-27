@@ -1,4 +1,4 @@
-# Python
+# Exercícios de Python
 
  Repositório contendo todos os exercícios referentes aos cursos de Python, Mundo 1 e Mundo 2, oferecido pelo Curso em Vídeo do Professor Guanabara.
  
