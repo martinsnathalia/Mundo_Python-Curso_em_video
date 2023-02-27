@@ -1,10 +1,10 @@
 # Python
 
- Material relativo a cursos e projetos de Python.
+ Repositório contendo todos os exercícios referentes aos cursos de Python, Mundo 1 e Mundo 2, oferecido pelo Curso em Vídeo do Professor Guanabara.
  
  Cursos: 
  
- Python Mundo 1 | Curso em Vídeo | Professor Guanabara 
+ 1. Python Mundo 1 | Curso em Vídeo | Professor Guanabara 
  
- Python Mundo 2 | Curso em Vídeo | Professor Guanaraba 
+ 2. Python Mundo 2 | Curso em Vídeo | Professor Guanaraba 
 
